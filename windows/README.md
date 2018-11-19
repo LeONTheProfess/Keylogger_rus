@@ -8,6 +8,8 @@ Simply compile into an .exe, and then run. Visual Studio is good for this.
 
 Both of these save the keystrokes to a .txt file when closed.
 
+Есть поддержка русского языка.
+
 ---
 
 Please feel free to contribute to fix any problems!
